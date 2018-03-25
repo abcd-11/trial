@@ -10,3 +10,5 @@ child1 branch change 1 at line no 9
 master branch change 2 at line no 8
 
 child branch change 2 at line no 10
+
+git cli comment
