@@ -6,5 +6,7 @@ Git is interface and Github is one of the implementation.
 
 master branch change 1 at line no 7
 
-
+child1 branch change 1 at line no 9
 master branch change 2 at line no 8
+
+child branch change 2 at line no 10
